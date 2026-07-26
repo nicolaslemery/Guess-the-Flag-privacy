@@ -8,7 +8,7 @@
 
 This Privacy Policy explains how information is handled when you use the **Guess The Flag** mobile application.
 
-The application is published by **Nicolas Lemery**, referred to below as “the developer.”
+The application is published by Nicolas Lemery, referred to below as “the developer.”
 
 Guess The Flag does not require an account and does not ask users to provide their name, email address, postal address, or other directly identifying information.
 
@@ -126,7 +126,7 @@ Please do not send sensitive personal, financial, health, authentication, or pay
 
 La présente politique explique comment les informations sont traitées lors de l’utilisation de l’application mobile **Guess The Flag**.
 
-L’application est publiée par **Nicolas Lemery**, désigné ci-dessous comme « l’éditeur ».
+L’application est publiée par Nicolas Lemery, désigné ci-dessous comme « l’éditeur ».
 
 Guess The Flag ne nécessite pas la création d’un compte et ne demande pas aux utilisateurs de fournir leur nom, leur adresse électronique, leur adresse postale ou d’autres informations directement identifiantes.
 
